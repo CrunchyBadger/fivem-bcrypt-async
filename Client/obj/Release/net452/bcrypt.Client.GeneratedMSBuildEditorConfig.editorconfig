@@ -1,5 +1,5 @@
 is_global = true
 build_property.RootNamespace = bcrypt.Client
-build_property.ProjectDir = O:\johndoe\All Servers\maindev\ServerData\resources\bcrypt\Client\
+build_property.ProjectDir = A:\temp\fivem-bcrypt-async\Client\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

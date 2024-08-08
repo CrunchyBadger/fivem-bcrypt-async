@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LHY7w9RnA8Y=",
+  "dgSpecHash": "5fPHgeI7D1s=",
   "success": true,
-  "projectFilePath": "O:\\johndoe\\All Servers\\maindev\\ServerData\\resources\\bcrypt\\Server\\bcrypt.Server.csproj",
+  "projectFilePath": "A:\\temp\\fivem-bcrypt-async\\Server\\bcrypt.Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jmeyer\\.nuget\\packages\\citizenfx.core.server\\1.0.9282\\citizenfx.core.server.1.0.9282.nupkg.sha512",
     "C:\\Users\\jmeyer\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",

@@ -9,3 +9,14 @@ O:\johndoe\All Servers\maindev\ServerData\resources\bcrypt\Server\obj\Release\ne
 O:\johndoe\All Servers\maindev\ServerData\resources\bcrypt\Server\obj\Release\netstandard2.0\bcrypt.Server.sourcelink.json
 O:\johndoe\All Servers\maindev\ServerData\resources\bcrypt\Server\obj\Release\netstandard2.0\bcrypt.Server.net.dll
 O:\johndoe\All Servers\maindev\ServerData\resources\bcrypt\Server\obj\Release\netstandard2.0\bcrypt.Server.net.pdb
+A:\temp\fivem-bcrypt-async\Server\bin\Release\netstandard2.0\bcrypt.Server.deps.json
+A:\temp\fivem-bcrypt-async\Server\bin\Release\netstandard2.0\bcrypt.Server.net.dll
+A:\temp\fivem-bcrypt-async\Server\bin\Release\netstandard2.0\bcrypt.Server.net.pdb
+A:\temp\fivem-bcrypt-async\Server\obj\Release\netstandard2.0\bcrypt.Server.csproj.AssemblyReference.cache
+A:\temp\fivem-bcrypt-async\Server\obj\Release\netstandard2.0\bcrypt.Server.GeneratedMSBuildEditorConfig.editorconfig
+A:\temp\fivem-bcrypt-async\Server\obj\Release\netstandard2.0\bcrypt.Server.AssemblyInfoInputs.cache
+A:\temp\fivem-bcrypt-async\Server\obj\Release\netstandard2.0\bcrypt.Server.AssemblyInfo.cs
+A:\temp\fivem-bcrypt-async\Server\obj\Release\netstandard2.0\bcrypt.Server.csproj.CoreCompileInputs.cache
+A:\temp\fivem-bcrypt-async\Server\obj\Release\netstandard2.0\bcrypt.Server.sourcelink.json
+A:\temp\fivem-bcrypt-async\Server\obj\Release\netstandard2.0\bcrypt.Server.net.dll
+A:\temp\fivem-bcrypt-async\Server\obj\Release\netstandard2.0\bcrypt.Server.net.pdb

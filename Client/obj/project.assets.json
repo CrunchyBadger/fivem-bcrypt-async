@@ -43,11 +43,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "O:\\johndoe\\All Servers\\maindev\\ServerData\\resources\\bcrypt\\Client\\bcrypt.Client.csproj",
+      "projectUniqueName": "A:\\temp\\fivem-bcrypt-async\\Client\\bcrypt.Client.csproj",
       "projectName": "bcrypt.Client",
-      "projectPath": "O:\\johndoe\\All Servers\\maindev\\ServerData\\resources\\bcrypt\\Client\\bcrypt.Client.csproj",
+      "projectPath": "A:\\temp\\fivem-bcrypt-async\\Client\\bcrypt.Client.csproj",
       "packagesPath": "C:\\Users\\jmeyer\\.nuget\\packages\\",
-      "outputPath": "O:\\johndoe\\All Servers\\maindev\\ServerData\\resources\\bcrypt\\Client\\obj\\",
+      "outputPath": "A:\\temp\\fivem-bcrypt-async\\Client\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jmeyer\\AppData\\Roaming\\NuGet\\NuGet.Config",
